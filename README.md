@@ -9,3 +9,9 @@ Link para visualizar o projeto: https://julianemonteiro.github.io/Aluraplus/
 * HTML
 * CSS
 
+## Aulas
+* Iniciando o projeto
+* A dupla HTML e CSS
+* Posicionando elementos
+* Finalizando nossa página
+* Compartilhando o projeto
